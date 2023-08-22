@@ -108,11 +108,11 @@ author:
   avatar           : /IMG_2148_1.JPG
   bio              : "Ph.D. Candidate in Economics, UCLA"
   #location         : "Somewhere"
-  #email            : kimyounghoon@ucla.edu
+  email            : kimyounghoon@g.ucla.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kimyounghoon@g.ucla.edu"
+      #url: "mailto:kimyounghoon@g.ucla.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
