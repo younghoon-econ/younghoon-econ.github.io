@@ -12,10 +12,12 @@ author_profile: true
 {% endfor %}
 
 **Education**
-UCLA
 
-SNU
+University of California, Los Angeles
+
+Seoul National University
 
 **Professional Experience**
 
-Ministry of Economy and Finance, Republic of Korea
+Deputy Director, Ministry of Economy and Finance, Republic of Korea
+
