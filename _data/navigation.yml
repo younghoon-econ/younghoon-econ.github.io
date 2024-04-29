@@ -2,10 +2,12 @@
 main:
   - title: "Home"
     url: https://younghoon-econ.github.io/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "CV"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /teaching/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
