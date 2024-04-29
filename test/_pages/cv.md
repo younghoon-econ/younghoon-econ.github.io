@@ -13,7 +13,9 @@ author_profile: true
 
 **Education**
 UCLA
+
 SNU
 
 **Professional Experience**
+
 Ministry of Economy and Finance, Republic of Korea
