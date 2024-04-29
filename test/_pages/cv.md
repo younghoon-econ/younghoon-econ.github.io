@@ -16,7 +16,4 @@ UCLA
 SNU
 
 **Professional Experience**
-Ministry of Economy and Finance
-
-
- **[E-mail](mailto:rubens@econ.ucla.edu)**
+Ministry of Economy and Finance, Republic of Korea
