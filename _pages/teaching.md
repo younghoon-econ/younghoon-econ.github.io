@@ -12,5 +12,7 @@ author_profile: true
 {% endfor %}
 
 **Teaching Assistant, UCLA**
+
 ECON 101
+
 ECON 11
