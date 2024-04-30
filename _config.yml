@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Your Name"
+  name             : Younghoon Kim
   avatar           : /IMG_2148_1.JPG
   bio              : "Ph.D. Candidate in Economics,<br>UCLA"
   #location         : "Somewhere"
-  email            : kimyounghoon@g.ucla.edu
+  #email            : kimyounghoon@g.ucla.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
