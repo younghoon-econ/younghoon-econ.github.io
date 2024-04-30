@@ -11,5 +11,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**International Trade**<br>
-<span class="indent">Stockpiling and Substitution</span>
+**Working Paper**<br>
+<span class="indent">"Responding to Semiconductor Supply Chain Disruptions: Evidence from South Korea"/span>
