@@ -2,9 +2,13 @@
 layout: archive
 ---
 
-{{ content }}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<main>
+    <section class="subsection">
+        <h3 class="subhead">About</h3>
+        <p>Welcome! I am a fifth-year Ph.D Candidate in Economics at the University of California, Los Angeles.</p>
+    </section>
+    {{ content }}
+</main>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
