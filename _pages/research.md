@@ -11,5 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**International Trade**
-Stockpiling
+**International Trade**<br>
+Stockpiling,<br>
+Substitution
