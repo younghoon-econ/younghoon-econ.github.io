@@ -12,4 +12,4 @@ author_profile: true
 {% endfor %}
 
 **Working Paper**<br>
-<span class="indent">"Responding to Semiconductor Supply Chain Disruptions: Evidence from South Korea"/span>
+<span class="indent">"Responding to Semiconductor Supply Chain Disruptions: Evidence from South Korea"</span><br>
