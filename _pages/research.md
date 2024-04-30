@@ -12,5 +12,4 @@ author_profile: true
 {% endfor %}
 
 **International Trade**<br>
-Stockpiling,<br>
-Substitution
+<span class="indent">Stockpiling and Substitution</span>
