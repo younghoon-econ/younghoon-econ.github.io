@@ -11,6 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**Teaching Assistant, UCLA**
-ECON 101
+**Teaching Assistant, UCLA**<br>
+ECON 101<br>
 ECON 11
