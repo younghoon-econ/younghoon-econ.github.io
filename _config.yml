@@ -106,7 +106,7 @@ analytics:
 author:
   #name             : "Your Name"
   avatar           : /IMG_2148_1.JPG
-  bio              : "Ph.D. Candidate in Economics, UCLA"
+  bio              : "Ph.D. Candidate in Economics,<br>UCLA"
   #location         : "Somewhere"
   email            : kimyounghoon@g.ucla.edu
   links:
