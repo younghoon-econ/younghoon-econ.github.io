@@ -12,12 +12,8 @@ author_profile: true
 {% endfor %}
 
 **Education**
-
 University of California, Los Angeles
-
 Seoul National University
 
 **Professional Experience**
-
 Deputy Director, Ministry of Economy and Finance, Republic of Korea
-
