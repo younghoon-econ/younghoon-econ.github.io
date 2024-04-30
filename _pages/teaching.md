@@ -12,5 +12,5 @@ author_profile: true
 {% endfor %}
 
 **Teaching Assistant, UCLA**<br>
-ECON 101<br>
-ECON 11
+<span class="indent"> ECON 101<br>
+<span class="indent"> ECON 11
