@@ -17,5 +17,5 @@ author_profile: true
 <!-- <span class="indent"> Visiting Student, Department of Economics, University of California, Berkeley (2014)</span> -->
 
 **Professional Experience**<br>
-<span class="indent"> Deputy Director, Ministry of Economy and Finance, Republic of Korea (2016 - 2019)</span>
+<span class="indent"> Deputy Director, Ministry of Economy and Finance, Republic of Korea (2016 - 2019)</span><br>
 <span class="indent"> Deputy Director, Seoul Metropolitan Government, Republic of Korea (2015 - 2016)</span>
