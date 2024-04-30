@@ -12,8 +12,8 @@ author_profile: true
 {% endfor %}
 
 **Education**<br>
-University of California, Los Angeles<br>
-Seoul National University
+<span class="indent"> University of California, Los Angeles<br>
+<span class="indent"> Seoul National University
 
 **Professional Experience**<br>
-Deputy Director, Ministry of Economy and Finance, Republic of Korea
+<span class="indent"> Deputy Director, Ministry of Economy and Finance, Republic of Korea
