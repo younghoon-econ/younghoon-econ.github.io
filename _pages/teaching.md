@@ -24,7 +24,7 @@ author_profile: true
   <div class="col-md-10">
     <p><strong>Advanced Microeconomics</strong> (Instructor: Jonathan Vogel)<br>
        <strong>Advanced Microeconomics</strong> (Instructor: Edward McDevitt)<br>
-       <strong>Advanced Microeconomics</strong> (Instructor: Bernardd S. Silveira)</p>
+       <strong>Advanced Microeconomics</strong> (Instructor: Bernardo S. Silveira)</p>
   </div>
 </div>
 
