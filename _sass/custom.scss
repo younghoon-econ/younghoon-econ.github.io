@@ -18,7 +18,7 @@ h1 {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif; // 폰트 설정
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px; // 기본 폰트 크기
   line-height: 1.5; // 줄 간격
 }
@@ -37,13 +37,4 @@ body {
 
 .row {
   margin-bottom: 20px;
-}
-
-.col-md-1 {
-  font-weight: bold;
-  margin-bottom: 0;
-}
-
-.col-md-10 p {
-  padding-left: 15px;
 }
