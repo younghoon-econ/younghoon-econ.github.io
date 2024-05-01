@@ -12,19 +12,14 @@ author_profile: true
 {% endfor %}
 
 **Teaching Assistant, UCLA**<br>
-<span class="indent"> Advanced Microeconomics, ECON 101</span><br>
-<span class="indent"> Intermediate Microeconomics, ECON 11</span>
-
-
-**Teaching Assistant, UCLA**<br>
 <div class="row mb-5">
   <div class="col-md-1">
-    <strong>2023-24</strong>
+    <strong>2023-24</strong><br>
   </div>
   <div class="col-md-10">
-    <p><strong>Advanced Microeconomics</strong> (Instructor: Jonathan Vogel)<br>
-       <strong>Advanced Microeconomics</strong> (Instructor: Edward McDevitt)<br>
-       <strong>Advanced Microeconomics</strong> (Instructor: Bernardo S. Silveira)</p>
+    <p>Advanced Microeconomics (Instructor: Jonathan Vogel)<br>
+       Advanced Microeconomics (Instructor: Edward McDevitt)<br>
+       Advanced Microeconomics (Instructor: Bernardo S. Silveira)</p>
   </div>
 </div>
 
