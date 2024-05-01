@@ -12,5 +12,5 @@ author_profile: true
 {% endfor %}
 
 **Teaching Assistant, UCLA**<br>
-<span class="indent"> ECON 101</span><br>
-<span class="indent"> ECON 11</span>
+<span class="indent"> Advanced Microeconomics, ECON 101</span><br>
+<span class="indent"> Intermediate Microeconomics, ECON 11</span>
