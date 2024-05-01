@@ -17,8 +17,6 @@ h1 {
     margin-bottom: 36px; // 마진 값을 조절하여 간격을 넓힘
 }
 
-
-
 body {
   font-family: 'Open Sans', sans-serif; // 폰트 설정
   font-size: 16px; // 기본 폰트 크기
@@ -30,9 +28,21 @@ body {
 }
 
 .site-title {
-  font-size: 22px; // 원하는 글자 크기로 조정
+  font-size: 22px;
 }
 
 .label {
-  font-size: 14px; // 원하는 글자 크기로 조정
+  font-size: 14px;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+.col-md-1 {
+  font-weight: bold;
+}
+
+.col-md-10 p {
+  padding-left: 15px;
 }
