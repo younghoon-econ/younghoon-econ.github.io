@@ -14,7 +14,7 @@ author_profile: true
 **Teaching Assistant, UCLA**<br>
 <div class="row mb-5">
   <div class="col-md-1">
-    <strong>2023-24</strong><br>
+    <strong>2023-24</strong>
   </div>
   <div class="col-md-10">
     <p>Advanced Microeconomics (Instructor: Jonathan Vogel)<br>
