@@ -12,15 +12,8 @@ author_profile: true
 {% endfor %}
 
 **Teaching Assistant, UCLA**<br>
-<div class="row mb-5">
-  <div class="col-md-1">
-    <strong>2023-24</strong>
-  </div>
-  <div class="col-md-10">
-    <p>Advanced Microeconomics (Instructor: Jonathan Vogel)<br>
-       Advanced Microeconomics (Instructor: Edward McDevitt)<br>
-       Advanced Microeconomics (Instructor: Bernardo S. Silveira)</p>
-  </div>
-</div>
 
-
+**2023-2024**<br>
+<span class="indent"> Advanced Microeconomics (Instructor: Jonathan Vogel)</span><br>
+<span class="indent"> Advanced Microeconomics (Instructor: Edward McDevitt)</span><br>
+<span class="indent"> Advanced Microeconomics (Instructor: Bernardo S. Silveira)</span><br>
