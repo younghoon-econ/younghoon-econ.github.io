@@ -14,6 +14,10 @@ author_profile: true
 **Working Paper**<br>
 <span class="indent">"From Foreign Export Controls to Domestic Export Boost: Evidence from South Korea"</span><br>
 
-
 <span class="indent">"Responding to Semiconductor Supply Chain Disruptions: Evidence from South Korea"</span><br>
+
+**Work in Progress**<br>
+<span class="indent">"Hysteresis Effects of Geopolitical Conflicts on Consumer Goods Trade"</span><br>
+
+<span class="indent">"Heterogeneous Effects of Geopolitical Disputes on Exports and Imports"</span><br>
 
