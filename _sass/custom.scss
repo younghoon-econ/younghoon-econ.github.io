@@ -26,6 +26,7 @@ body {
 strong {
   display: block; /* 블록 요소로 변경 */
   margin-bottom: 5px; /* 원하는 여백 설정 */
+  margin-top: 5px; // 상단 여백 제거
 }
 
 .indent {
