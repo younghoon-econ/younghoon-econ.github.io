@@ -12,6 +12,7 @@ author_profile: true
 {% endfor %}
 
 **Working Paper**<br>
+<div style="margin-bottom: 1em;"></div>
 <span class="indent">"From Foreign Export Controls to Domestic Export Boost: Evidence from South Korea"</span><br>
 <div class="abstract">
   How do foreign export controls affect domestic exports? In trade models with scale economies, foreign export controls promote domestic exports by expanding domestic production to substitute away from the foreign country.</div><br>
