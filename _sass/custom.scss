@@ -23,13 +23,18 @@ body {
   line-height: 1.5; // 줄 간격
 }
 
+strong {
+  display: block; /* 블록 요소로 변경 */
+  margin-bottom: 10px; /* 원하는 여백 설정 */
+}
+
 .indent {
   margin-left: 20px; // 들여쓰기 크기 설정
 }
 
 .abstract {
   margin-left: 20px; // 들여쓰기 크기 설정
-  font-size: 14px; // 원하는 크기로 설정
+  font-size: 15px; // 원하는 크기로 설정
   text-align: justify; // 양쪽 정렬
 }
 
@@ -44,3 +49,4 @@ body {
 .row {
   margin-bottom: 20px;
 }
+
