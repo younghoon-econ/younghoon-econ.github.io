@@ -21,6 +21,8 @@ author_profile: true
   How might semiconductor producers respond to the possibility of restricted access to key imported intermediate goods? And how might this response vary across inputs? I use the response of Korean semiconductor producers amid the 2019 Korea-Japan political dispute to answer these questions.</div><br>
 
 **Work in Progress**<br>
+<div style="margin-bottom: 1em;"></div>
 <span class="indent">"Hysteresis Effects of Geopolitical Conflicts on Consumer Goods Trade"</span><br>
+<div style="margin-bottom: 1em;"></div>
 <span class="indent">"Heterogeneous Effects of Geopolitical Disputes on Exports and Imports"</span><br>
 
