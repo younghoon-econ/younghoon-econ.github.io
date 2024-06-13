@@ -14,6 +14,8 @@ author_profile: true
 **Working Paper**<br>
 <span class="indent">"From Foreign Export Controls to Domestic Export Boost: Evidence from South Korea"</span><br>
 <span class="indent">"Responding to Semiconductor Supply Chain Disruptions: Evidence from South Korea"</span><br>
+<div class="abstract">
+  How might semiconductor producers respond to the possibility of restricted access to key imported intermediate goods? And how might this response vary across inputs? I use the response of Korean semiconductor producers amid the 2019 Korea-Japan political dispute to answer these questions.</div><br>
 
 **Work in Progress**<br>
 <span class="indent">"Hysteresis Effects of Geopolitical Conflicts on Consumer Goods Trade"</span><br>
