@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 **Working Paper**<br>
-<div style="margin-bottom: 1em;"></div>
+<div style="margin-bottom: 0.5em;"></div>
 <span class="indent">"From Foreign Export Controls to Domestic Export Boost: Evidence from South Korea"</span><br>
 <div class="abstract">
   How do foreign export controls affect domestic exports? In trade models with scale economies, foreign export controls promote domestic exports by expanding domestic production to substitute away from the foreign country.</div><br>
@@ -21,8 +21,8 @@ author_profile: true
   How might semiconductor producers respond to the possibility of restricted access to key imported intermediate goods? And how might this response vary across inputs? I use the response of Korean semiconductor producers amid the 2019 Korea-Japan political dispute to answer these questions.</div><br>
 
 **Work in Progress**<br>
-<div style="margin-bottom: 1em;"></div>
+<div style="margin-bottom: 0.5em;"></div>
 <span class="indent">"Hysteresis Effects of Geopolitical Conflicts on Consumer Goods Trade"</span><br>
-<div style="margin-bottom: 1em;"></div>
+<div style="margin-bottom: 0.5em;"></div>
 <span class="indent">"Heterogeneous Effects of Geopolitical Disputes on Exports and Imports"</span><br>
 
