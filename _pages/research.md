@@ -21,5 +21,6 @@ author_profile: true
 
 **Work in Progress**<br>
 <span class="indent">"Hysteresis Effects of Geopolitical Conflicts on Consumer Goods Trade"</span><br>
+<span style="display: block; height: 1px;"></span>
 <span class="indent">"Heterogeneous Effects of Geopolitical Disputes on Exports and Imports"</span><br>
 
