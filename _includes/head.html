@@ -6,6 +6,9 @@
 <meta name="keywords" content="Younghoon Kim, Economics, UCLA, Younghoon, International Trade, Trade">
 <meta name="robots" content="index, follow">
 
+<!-- Add favicon -->
+<link rel="icon" href="{{ '/assets/ucla.ico' | relative_url }}" type="image/x-icon">
+
 {% unless site.atom_feed.hide %}
   <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 {% endunless %}
