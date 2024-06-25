@@ -8,11 +8,15 @@
 
 <!-- Add favicon -->
 <link rel="icon" href="{{ '/assets/ucla.ico' | relative_url }}" type="image/x-icon">
-
 <!-- Add manifest -->
 <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
 
-
+<!-- Add Open Graph meta tags -->
+<meta property="og:title" content="Younghoon Kim's academic page">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://younghoon-econ.github.io/">
+<meta property="og:image" content="https://younghoon-econ.github.io/assets/ucla.ico">
+<meta property="og:description" content="Ph.D. Candidate in Economics at UCLA">
 
 {% unless site.atom_feed.hide %}
   <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
