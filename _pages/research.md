@@ -13,7 +13,7 @@ author_profile: true
 
 **Working Paper**<br>
 <div style="margin-bottom: 1px;"></div>
-<span class="indent">"Backfire From Foreign Export Controls: Evidence from South Korea"</span><br>
+<span class="indent">"Backfire From Export Controls: Evidence from 2019 Korea-Japan Trade Dispute"</span><br>
 <div class="abstract">
   Can foreign export controls backfire? And lead to an increase in domestic productivity, and even in exports? I use the responses from Korean producers amid the 2019 Korea-Japan political dispute to answer these questions</div><br>
 <span class="indent">"Responding to Semiconductor Supply Chain Disruptions: Evidence from South Korea"</span><br>
