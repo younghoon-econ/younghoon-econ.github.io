@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[View my CV](https://younghoon-econ.github.io/Sep2024_CV.pdf)
+[CV (September 2024)](https://younghoon-econ.github.io/Sep2024_CV.pdf)
 
 **Education**<br>
 <span class="indent"> Ph.D. Candidate in Economics, University of California, Los Angeles (2021 - )</span><br>
