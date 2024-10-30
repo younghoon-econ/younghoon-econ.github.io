@@ -13,11 +13,11 @@ author_profile: true
 
 **Working Paper**<br>
 <div style="margin-bottom: 1px;"></div>
-<span class="indent" style="white-space: nowrap;">"When Export Controls Backfire: Evidence from 2019 Korea-Japan Trade Dispute" <a href="https://younghoon-econ.github.io/YKim_JMP.pdf" target="_blank">[Draft]</a></span><br>
+<span class="indent" style="white-space: nowrap;">"When Export Controls Backfire: Evidence from 2019 Korea-Japan Trade Dispute" <a href="https://younghoon-econ.github.io/YKim_JMP.pdf" target="_blank">[PDF]</a></span><br>
 <div class="abstract">
   Can export controls backfire, leading to an increase in productivity and exports in the targeted country? I use Korea's response to the 2019 Korea-Japan trade dispute to answer these questions. In 2019, Japan announced export controls on South Korea for national strategic items, leaving enforcement up to Japanese officials. Although no export restrictions were imposed in practice, the potential risk alone triggered substantial changes in Korea's imports and exports. Imports from Japan have declined significantly, irrespective of whether the items were directly subject to the export controls. Not only has Korean producers' revenue increased, but its exports have also expanded more in sectors where Japan had a larger share of the Korean market. Furthermore, the prices of these exported goods have decreased. Motivated by these empirical findings, I structurally estimate the strength of scale economies in Korea and in other countries, and find evidence of large scale economies. This suggests that export-control induced positive shocks to domestic demand have increased domestic productivity, which in turn has lowered prices and boosted exports.</div><br>
   
-<span class="indent" style="margin-bottom: 0; white-space: nowrap;">"Responding to Semiconductor Supply Chain Disruptions: Evidence from South Korea"</span><br>
+<span class="indent" style="margin-bottom: 0; white-space: nowrap;">"Responding to Semiconductor Supply Chain Disruptions: Evidence from South Korea" <a href="https://younghoon-econ.github.io/YKim_Semicon_Feb2024.pdf" target="_blank">[PDF]</a></span><br>
 <details>
   <summary class="indent" style="font-size: 14px; margin-top: 0;">Abstract</summary>
   <p class="abstract">
