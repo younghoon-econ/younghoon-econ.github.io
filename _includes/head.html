@@ -2,6 +2,16 @@
 
 {% include seo.html %}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3K1CH2RM8S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3K1CH2RM8S');
+</script>
+
 <!-- Add favicon -->
 <link rel="icon" href="{{ '/assets/ucla.png' | relative_url }}" type="image/png">
 <!-- Add manifest -->
