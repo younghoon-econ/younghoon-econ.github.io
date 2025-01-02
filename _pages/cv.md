@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[CV (December 2024)](https://younghoon-econ.github.io/YKim_CV.pdf)
+[CV (January 2025)](https://younghoon-econ.github.io/YKim_CV.pdf)
 
 
 **Education**<br>
