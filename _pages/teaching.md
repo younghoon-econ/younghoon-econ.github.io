@@ -12,8 +12,8 @@ author_profile: true
 {% endfor %}
 
 **UCLA (Teaching Assistant)**<br>
-<span class="indent"> Intermediate Microeconomic Theory (2021-2025)</span><br>
-<span class="indent"> Microeconomic Theory (2022)</span><br>
+<span class="indent">2021–2025&nbsp;&nbsp;&nbsp;Intermediate Microeconomic Theory</span><br>
+<span class="indent">2022&nbsp;&nbsp;&nbsp;Microeconomic Theory</span><br>
 
 <!--**2021-2022**<br>-->
 <!--<span class="indent"> Intermediate Microeconomics (Instructor: Jonathan Vogel)</span><br>-->
