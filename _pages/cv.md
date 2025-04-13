@@ -15,9 +15,9 @@ author_profile: true
 
 
 **Positions**<br>
-<span class="indent">2025–&nbsp;&nbsp;&nbsp;Assistant Professor of Economics, National University of Singapore, Lee Kuan Yew School of Public Policy</span><br>
-<span class="indent">2016–2019&nbsp;&nbsp;&nbsp;Deputy Director, Ministry of Economy and Finance, Republic of Korea</span><br>
-<span class="indent">2015–2016&nbsp;&nbsp;&nbsp;Deputy Director, Seoul Metropolitan Government, Republic of Korea</span><br>
+<span style="display: inline-block; width: 80px;">2025–</span> Assistant Professor of Economics, National University of Singapore, Lee Kuan Yew School of Public Policy<br>
+<span style="display: inline-block; width: 80px;">2016–2019</span> Deputy Director, Ministry of Economy and Finance, Republic of Korea<br>
+<span style="display: inline-block; width: 80px;">2015–2016</span> Deputy Director, Seoul Metropolitan Government, Republic of Korea<br>
 
 **Education**<br>
 <span class="indent"> 2025&nbsp;&nbsp;&nbsp; Ph.D. in Economics, University of California, Los Angeles</span><br>
