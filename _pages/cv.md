@@ -15,8 +15,8 @@ author_profile: true
 
 
 **Positions**<br>
-<span class="indent"> Deputy Director, Ministry of Economy and Finance, Republic of Korea (2016-2019)</span><br>
-<span class="indent"> Deputy Director, Seoul Metropolitan Government, Republic of Korea (2015-2016)</span>
+<span class="indent">2016–2019&nbsp;&nbsp;&nbsp;Deputy Director, Ministry of Economy and Finance, Republic of Korea</span><br>
+<span class="indent">2015–2016&nbsp;&nbsp;&nbsp;Deputy Director, Seoul Metropolitan Government, Republic of Korea</span><br>
 
 **Education**<br>
 <span class="indent"> Ph.D. in Economics, University of California, Los Angeles (2025)</span><br>
