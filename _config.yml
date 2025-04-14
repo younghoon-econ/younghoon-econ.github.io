@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Younghoon Kim"
 description              : "Ph.D. Candidate in Economics at UCLA"
 url                      : "https://younghoon-econ.github.io/"
-keywords                 : "Younghoon, Younghoon Kim, Kim Younghoon, Economics, UCLA, NUS, International Trade, Trade"
+keywords                 : "Younghoon, Younghoon Kim, UCLA, NUS, Economics, Trade"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kimyounghoon@g.ucla.edu"
+      url: "mailto:kimyounghoon4@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
