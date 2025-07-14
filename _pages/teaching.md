@@ -11,6 +11,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+**National University of Singapore (Instructor)**<br>
+<span class="indent">2025&nbsp;&nbsp;&nbsp;Introduction to Coding for Public Policy using Python</span><br>
+
 **UCLA (Teaching Assistant)**<br>
 <span class="indent">2021–2025&nbsp;&nbsp;&nbsp;Intermediate Microeconomic Theory</span><br>
 <span class="indent">2022&nbsp;&nbsp;&nbsp;Microeconomic Theory</span><br>
