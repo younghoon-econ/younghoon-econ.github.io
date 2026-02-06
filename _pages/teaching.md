@@ -12,6 +12,7 @@ author_profile: true
 {% endfor %}
 
 **National University of Singapore (Instructor)**<br>
+<span class="indent">2026&nbsp;&nbsp;&nbsp;Financial Issues, Trade and Investment in Asia</span><br>
 <span class="indent">2025&nbsp;&nbsp;&nbsp;Introduction to Coding for Public Policy using Python</span><br>
 
 **UCLA (Teaching Assistant)**<br>
