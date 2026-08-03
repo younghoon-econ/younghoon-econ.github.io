@@ -16,13 +16,14 @@ author_profile: true
   display: grid;
   grid-template-columns: max-content 1fr;
   column-gap: 1.5rem;
-  row-gap: 0.35rem;
+  row-gap: 0.1rem;
   align-items: baseline;
 }
 .teach .hdr {
   grid-column: 1 / -1;
   font-weight: bold;
   margin-top: 1.25rem;
+  margin-bottom: 0.2rem;
 }
 .teach .hdr:first-child { margin-top: 0; }
 .teach .yr {
