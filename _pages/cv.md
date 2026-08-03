@@ -42,16 +42,12 @@ author_profile: true
   <div class="hdr">Policy Experience</div>
   <div class="yr">2016–2019</div>
   <div>Deputy Director, Ministry of Economy and Finance, Republic of Korea</div>
-  <div class="sub">Divisions: Social Policy, Population Policy, Future Policy</div>
   <div class="yr">2015–2016</div>
   <div>Deputy Director, Seoul Metropolitan Government, Republic of Korea</div>
-  <div class="sub">Division: Transportation Policy</div>
   <div class="hdr">Education</div>
   <div class="yr">2025</div>
   <div>Ph.D. in Economics, University of California, Los Angeles</div>
   <div class="sub">Advisors: Jonathan Vogel, Pablo Fajgelbaum, Oleg Itskhoki</div>
-  <div class="yr">2021</div>
-  <div>M.A. in Economics, University of California, Los Angeles</div>
   <div class="yr">2015</div>
   <div>B.A. in Economics (<em>summa cum laude</em>), Seoul National University</div>
 </div>
