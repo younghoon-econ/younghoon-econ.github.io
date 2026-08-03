@@ -13,7 +13,7 @@ author_profile: true
 .cvgrid {
   display: grid;
   grid-template-columns: max-content 1fr;
-  column-gap: 1.0rem;
+  column-gap: 0.8rem;
   row-gap: 0.1rem;
   align-items: baseline;
 }
@@ -25,7 +25,7 @@ author_profile: true
 }
 .cvgrid .hdr:first-child { margin-top: 0; }
 .cvgrid .yr {
-  padding-left: 1.0rem;
+  padding-left: 0.8rem;
   white-space: nowrap;
 }
 .cvgrid .sub {
